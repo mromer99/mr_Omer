@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently working on my own Startup Project as a Full Stack Developer.<br>🎯 Goals: Creating first MVP of my Project by the end of 2024.</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently working on my own Startup Project as a Full Stack Developer.<br>🎯 Goals: Creating the first MVP of my Project by the end of 2024.</p>
 
 ###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mromer99&label=Profile%20views&color=0e75b6&style=flat" alt="mromer99" /> </p>
