@@ -3,7 +3,7 @@
 ###
 
 <p align="left">My name is Omer and I am a Computer Engineering Student at TU Berlin. <br><br>Don't hesitate to have a look at my Projects in my GitHub Profile.</p>
-
+ 
 ###
 
 <h2 align="left">About me</h2>
